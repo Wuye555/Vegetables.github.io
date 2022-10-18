@@ -7,8 +7,9 @@ html{
 .container{
     max-width: 940px;
     max-height: 1260px;
-    margin:0,auto;
-    flex-grow: 1; 
+    margin-right :auto;
+    margin-left :auto;
+    
 }
 
 /*header style*/
@@ -170,6 +171,7 @@ html{
 /*footer*/
 .footer{
     margin-top: 175px;
+    width:1260px;
     height: 60px;
     background-color:#778A50;
     display: flex;
@@ -179,7 +181,7 @@ html{
     color:#edf2c5;
     box-sizing: border-box;
     padding:23px 479px 23px 480px;
-    margin:0,auto;
+    
  
 
 }

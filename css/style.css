@@ -4,6 +4,10 @@ html{
     box-sizing: border-box;
 }
 
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 .container{
     max-width: 940px;
     max-height: 1260px;
@@ -171,7 +175,7 @@ html{
 /*footer*/
 .footer{
     margin-top: 175px;
-    width:940px;
+    width:1260px;
     height: 60px;
     background-color:#778A50;
     font-family: Arial;

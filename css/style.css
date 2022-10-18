@@ -8,6 +8,15 @@ html{
     box-sizing: inherit;
 }
 
+body{
+
+    font-family: "Arial Black";
+    background-color:#edf2c5;
+    width: 1260px;
+    height: 940px;
+    margin:0 auto;
+}
+
 .container{
     max-width: 940px;
     max-height: 880px;

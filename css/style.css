@@ -10,9 +10,8 @@ html{
 
 .container{
     max-width: 940px;
-    max-height: 1260px;
-    margin-right :auto;
-    margin-left :auto;
+    max-height: 880px;
+    margin: 0 auto;
     
 }
 

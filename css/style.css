@@ -182,8 +182,8 @@ body{
 }
 /*footer*/
 .footer{
-    margin-top: 175px;
-    width:100%;
+    
+    width:1260px;
     height: 60px;
     background-color:#778A50;
     font-family: Arial;

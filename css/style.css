@@ -7,8 +7,7 @@ html{
 .container{
     max-width: 940px;
     max-height: 1260px;
-    margin-right: auto;
-    margin-left: auto;
+    margin:0,auto;
     flex-grow: 1; 
 }
 
@@ -180,9 +179,8 @@ html{
     color:#edf2c5;
     box-sizing: border-box;
     padding:23px 479px 23px 480px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    margin:0,auto;
+ 
 
 }
 

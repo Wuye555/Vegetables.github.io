@@ -171,12 +171,13 @@ html{
 }
 /*footer*/
 .footer{
+    margin-top:175px;
     padding:23px 479px 23px 480px;
     width:1260px;
     height: 60px;
     background-color:#778A50;
-    display: flex;
-    justify-content: center;
+    /*display: flex;
+    justify-content: center;*/
     margin-right: auto;
     margin-left: auto;
     font-family: Arial;

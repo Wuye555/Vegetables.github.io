@@ -171,7 +171,6 @@ html{
 /*footer*/
 .footer{
     margin-top: 175px;
-    width:1264px;
     height: 60px;
     background-color:#778A50;
     display: flex;
@@ -181,6 +180,9 @@ html{
     color:#edf2c5;
     box-sizing: border-box;
     padding:23px 479px 23px 480px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 
 }
 

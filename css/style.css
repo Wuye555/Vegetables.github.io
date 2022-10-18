@@ -9,6 +9,7 @@ html{
     max-height: 1260px;
     margin-right: auto;
     margin-left: auto;
+    flex-grow: 1; 
 }
 
 /*header style*/
